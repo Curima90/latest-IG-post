@@ -1,0 +1,62 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-color:black;
+ }
+ 
+ .post_header{
+     display:flex;
+     justify-content: space-between;
+     align-items: center;
+ 
+ }
+
+ .html5{
+    font-weight:bold;
+ }
+
+ .post{
+     background-color:white;
+     width:400px;
+     max-width:auto;
+     margin:0 auto;
+     padding:0.5rem;
+ }
+ 
+ img{
+     max-width:100%;
+ }
+ 
+ .liked_by{
+     font-weight:bold;
+ }
+
+ .post_icons{
+     display:flex;
+     justify-content:space-between;
+     align-items:center;
+     padding:0.4rem;
+ }
+
+ 
+ .name {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+ }
+
+ .d-flex {
+    display:flex;
+ }
+p {
+    margin:0;
+}
+.userInfo {
+    padding:0.5rem;
+}
+.post_body{
+    padding:0.4rem;
+}
+
+.post_body p{
+    margin: 0.6rem;
+}
